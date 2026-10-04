@@ -1,5 +1,5 @@
 
-# Student Performance Prediction 🤖
+# Student Performance Prediction 
 
 A beginner machine learning project that predicts student performance based on study hours and attendance.
 
